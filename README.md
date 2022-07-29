@@ -34,15 +34,15 @@ This program HAS NOT been tested intensively, it is believed to do what it is su
 
 a) Run THRUST_Test: this code uses the input $U_i$ from OriginalData folder and the references $M_i$ from POMData folder in order to create a new folder called Data_persuasion that contains the output ($W_i$) of our model. This step ensures the transformation of the attitude from $Neutral$ (given by $U_i$) to "Persuasive" (given by $W_i$).
 
-b) Run THRUST_Evaluation: this script checks if the output of our THRUST model are classified as "Persuasive" or "Neutral". For that, we need to download the Random Forest classifier (optimized and stored as "best_rf.joblib") 
+b) Run THRUST_Evaluation: this script checks if the output of our THRUST model are classified as persuasive or neutral. For that, we need to download the Random Forest classifier (optimized and stored as "best_rf.joblib") 
 
 ## Do you have your own data?
 * If you would like to test our THRUST tool with your own video, you should just extract the head poses and facial action unit (you can use for this OpenFace toolkit) and save the extracted file (in .csv format) in OriginalData folder.
 Preferably, name your file like the examples given, otherwise you have to modify the code, it's up to you to do what is necessary in this case ;-)
 
 ## What we need to use THRUST ?
-* 1- Python (https://www.python.org/downloads/)
+* 1- Python realease (https://www.python.org/downloads/)
 * 2- Greta platform to generate video with embodied conversational agent (https://github.com/isir/greta)
-* 3- OpenFace toolbox (https://github.com/TadasBaltrusaitis/OpenFace)
+* 3- OpenFace toolkit (https://github.com/TadasBaltrusaitis/OpenFace)
 
 ## Demonstration
