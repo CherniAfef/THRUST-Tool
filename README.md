@@ -44,7 +44,10 @@ Preferably, name your file like the examples given, otherwise you have to modify
 * 1- Python realease (https://www.python.org/downloads/)
 * 2- Greta platform to generate video with embodied conversational agent (https://github.com/isir/greta)
 * 3- OpenFace toolkit (https://github.com/TadasBaltrusaitis/OpenFace)
-* 4- If you want to explore POM corpus (https://github.com/eusip/POM/)
 
+
+## If you want
+* 1- To explore POM corpus (https://github.com/eusip/POM/)
+* 2- To find the results presented in the article (ML_test.ipynb)
 
 ## Demonstration
