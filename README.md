@@ -51,3 +51,8 @@ Preferably, name your file like the examples given, otherwise you have to modify
 * 2- To find the results presented in the article (ML_test.ipynb)
 
 ## Demonstration
+
+
+## Contact information
+* Afef CHERNI (cherni.afef@univ-amu.fr, cherni.afef@lis-lab.fr)
+* Magalie Ochs (magalie.ochs@univ-amu.fr, magalie.ochs@lis-lab.fr)
