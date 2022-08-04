@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 28 10:00:10 2022
 
-@author: Afef Cherni, Roxane Bertrand, Magalie Ochs
+@author: Afef Cherni
 """
 
 import os as os

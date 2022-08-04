@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 28 11:40:49 2022
 
-@author: Afef Cherni, Roxane Bertrand, Magalie Ochs
+@author: Afef Cherni
 """
 
 import numpy as np
