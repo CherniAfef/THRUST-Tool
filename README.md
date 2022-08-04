@@ -27,7 +27,7 @@ This program HAS NOT been tested intensively, it is believed to do what it is su
     Contact: cherni.afef@univ-amu.fr
     Version : 1.0   Date : July 2022
 
-## How to use THRUST ?
+## How to use ?
 * 1- Clone the repository to retrieve all files from the THRUST Project
 * 2- Check if you have Original_Data folder, POM_Data folder, THRUST_Tool.py, THRUST_Test and THRUST_Evaluation
 * 3- To test our proposed tool, you should:
@@ -36,14 +36,14 @@ a) Run THRUST_Test: this code uses the input $U_i$ from Original_Data folder and
 
 b) Run THRUST_Evaluation: this script checks if the output of our THRUST model are classified as persuasive or neutral. For that, we need to download the Random Forest classifier (optimized and stored as "best_rf.joblib") 
 
-## Do you have your own data?
-* If you would like to test our THRUST tool with your own video, you should just extract the head poses and facial action unit (you can use for this OpenFace toolkit) and save the extracted file (in .csv format) in OriginalData folder.
-Preferably, name your file like the examples given, otherwise you have to modify the code, it's up to you to do what is necessary in this case ;-)
-
-## What we need to use THRUST ?
+## What we need ?
 * 1- Python realease (https://www.python.org/downloads/)
 * 2- Greta platform to generate video with embodied conversational agent (https://github.com/isir/greta)
 * 3- OpenFace toolkit (https://github.com/TadasBaltrusaitis/OpenFace)
+
+## Do you have your own data ?
+* If you would like to test our THRUST tool with your own video, you should just extract the head poses and facial action unit (you can use for this OpenFace toolkit) and save the extracted file (in .csv format) in OriginalData folder.
+Preferably, name your file like the examples given, otherwise you have to modify the code, it's up to you to do what is necessary in this case ;-)
 
 
 ## If you want !
