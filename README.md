@@ -32,9 +32,11 @@ This program HAS NOT been tested intensively, it is believed to do what it is su
 * 2- Check if you have Original_Data folder, POM_Data folder, THRUST_Tool.py, THRUST_Test and THRUST_Evaluation
 * 3- To test our proposed tool, you should:
 
-a) Run THRUST_Test: this code uses the input $U_i$ from Original_Data folder and the references $M_i$ from POM_Data folder in order to create a new folder called Perusasion_Data that contains the output ($W_i$) of our model. This step ensures the transformation of the attitude from $Neutral$ (given by $U_i$) to "Persuasive" (given by $W_i$).
+a) Run Persuasion_Test: this code uses the input $U_i$ from Original_Data folder and the references $M_i$ from POM_Data folder in order to create a new folder called Perusasion_Data that contains the output ($W_i$) of our model. This step ensures the transformation of the attitude from $Neutral$ (given by $U_i$) to "Persuasive" (given by $W_i$).
 
 b) Run THRUST_Evaluation: this script checks if the output of our THRUST model are classified as persuasive or neutral. For that, we need to download the Random Forest classifier (optimized and stored as "best_rf.joblib") 
+
+c) Run _THRUST_Test: this scirpt verifies if your modelization output is classified as persuasive or not.
 
 ## What we need ?
 * 1- Python realease (https://www.python.org/downloads/)
