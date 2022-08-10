@@ -1,7 +1,5 @@
 # THRUST-Tool
 
-This repository is associated to the manuscript 
-
 * ### From neutral human face to persuasive virtual face: a new automatic tool to generate a persuasive attitude
 * #### Afef Cherni, Roxane Bertrand, Magalie Ochs
 
