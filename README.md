@@ -48,8 +48,7 @@ Preferably, name your file like the examples given, otherwise you have to modify
 
 ## If you want !
 * 1- To explore POM corpus (https://github.com/eusip/POM/)
-* 2- To find the results presented in the article (ML_test.ipynb)
-
+* 2- ...
 ## Demonstration
 
 https://user-images.githubusercontent.com/24696985/182818960-a1fb635f-e933-434c-8fad-b54a06474543.mp4
