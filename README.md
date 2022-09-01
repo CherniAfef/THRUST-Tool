@@ -18,7 +18,7 @@ In nutshell, THRUST model takes as input a video of a  speaker talking  about a 
 We simulate the output variables set $W_i$ on the embodied conversational agent Greta, and generates the target video.
 
 
-This program HAS NOT been tested intensively, it is believed to do what it is supposed to do, However, you are welcome to check it if you have own corpus ad own data.
+This program HAS NOT been tested intensively, it is believed to do what it is supposed to do, However, you are welcome to check it if you have your own corpus and your own data.
 
 
     Authors : Afef Cherni,  Roxane Bertrand and Magalie Ochs 
