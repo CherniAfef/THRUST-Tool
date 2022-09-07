@@ -1,0 +1,263 @@
+
+
+h1
+{
+font-size: 40px;
+text-align: left;
+color: black;
+font-family: Cursive;
+margin-left: 20px;
+line-height: 1.2;
+}
+
+h2
+{
+font-size: 25px;
+color: black;	
+font-family: "Times New Roman";
+line-height:1.5px;
+}
+
+h3
+{
+font-size: 25px;
+color: #035dde;
+text-align: justify;
+font-family:  "Times New Roman";
+line-height:1.5px;
+}
+
+
+body
+{
+font-size: 20px;
+font-family: "Times New Roman";
+color: #242424;
+background-color: white;
+}
+
+#box
+{
+background-color: white;
+width: 100%;
+margin-top: 5px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+#boxcol1
+{
+background-color: white;
+float: left;
+width: 200px;
+height: 250px;
+margin-left: 10px;
+margin-top: 5px;
+}
+
+#boxcol2
+{
+background-color: black;
+margin-left: 0px;
+width: 100%;
+height: 500px;
+background-image:url(images/Plan1.png);
+margin-top: -50px;
+}
+
+#boxCV
+{
+background-color: black;
+margin-left: 0px;
+width: 100%;
+height: 150px;
+background-image:url(images/PlanB2.png);
+margin-top: 5px;
+}
+
+#boxSoftware
+{
+background-color: black;
+margin-left: 0px;
+width: 100%;
+height: 150px;
+background-image:url(images/PlanB2.png);
+margin-top: 5px;
+}
+
+#boxThesis
+{
+background-color: black;
+margin-left: 0px;
+width: 99%;
+height: 150px;
+background-image:url(images/PlanB2.png);
+margin-top: 5px;
+}
+
+#boxPublications
+{
+background-color: black;
+margin-left: 0px;
+width: 100%;
+height: 150px;
+background-image:url(images/PlanB2.png);
+margin-top: 5px;
+}
+
+#boxTeaching
+{
+background-color: black;
+margin-left: 0px;
+width: 100%;
+height: 150px;
+background-image:url(images/PlanB2.png);
+margin-top: 5px;
+}
+
+#boxblanc
+{
+background-color: white;
+width: 100%;
+text-align: left;
+}
+
+#colAboutme
+{
+width: 70%;
+float: left;
+background-color: white;
+border: 3px dotted #e7ad4a;
+padding-left: 10px;
+padding-right: 0px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-left: 0px;
+}
+
+#colAboutme2
+{
+width: 60%;
+float: left;
+background-color: white;
+border: 3px dotted #e7ad4a;
+padding-left: 5px;
+padding-right: 0px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-left: 0px;
+}
+#colOther
+{
+width: 90%;
+overflow: hidden;
+background-color: white;
+padding-left: 100px;
+padding-right: 20px;
+padding-top: 30px;
+padding-bottom: 20px;
+margin-left: 0px;
+border-spacing : 500px;
+}
+
+#colCollab
+{
+width: 15%;
+float: right;
+background-color: white;
+border: 3px dotted #ac2295;
+padding-left: 10px;
+padding-right: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-left: 0px;
+}
+
+#photodeprofil
+{
+  display: inline-block;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px dotted white;
+  width: 220px;
+  height: 230px;
+  border-radius: 50%;
+  margin-left: 45%;
+  position: center;
+  text-align: center;
+  overflow:hidden;
+}
+
+img
+{
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+  position: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageflottanteProfil
+{
+float: left;
+margin-right: 30px;
+width: 40px;
+height: 40px;
+}
+
+
+
+ul {
+ position:absolute; 
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ position: absolute;
+ text-align:center;
+ padding-left: 7px;
+}
+li {
+ margin-left:150.5px;
+ float:left; /*pour IE*/
+  padding-left: 50px;
+
+}
+ul li a {
+ display:block;
+ float:left;   
+ position: center;
+ width:150px;
+ background-color:#1698f1 ;
+ color:black;
+ text-decoration:none;
+ text-align:center;
+ padding:10px;
+ border:2px solid;
+ /*pour avoir un effet "outset" avec IE :*/
+ border-color: #1698f1  #696969 #1698f1   #1698f1 ;
+ }
+ul li a:hover {
+ background-color:  #e7ad4a  ;
+ border-color: #1698f1   #1698f1   #1698f1   #1698f1 ;
+ } 
+
+
+.Logo1{
+    float:left;
+    width: 200px;
+    height: 100px;
+    padding-top: 10px;
+    margin-left: 50px;
+    position: center
+}
+
+.Logo2{
+    float:left;
+    width: 110px;
+    height: 100px;
+    padding-top: 10px;
+    margin-left: 50px;
+}
